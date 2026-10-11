@@ -1,1 +1,23 @@
-
+name: Daily Android ranks
+on:
+  schedule:
+    - cron: '15 2 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: npm install
+      - run: node track.mjs
+      - name: Save results
+        run: |
+          git config user.name "rank-bot"
+          git config user.email "rank-bot@users.noreply.github.com"
+          git add android_ranks.json
+          git diff --cached --quiet || git commit -m "Android ranks $(date -u +%F)"
+          git push
