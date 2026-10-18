@@ -894,5 +894,133 @@
   "code": "de",
   "region": "Diaspora",
   "rank": null
+ },
+ {
+  "date": "2026-10-18",
+  "store": "Google Play",
+  "country": "India",
+  "code": "in",
+  "region": "Home",
+  "rank": 31
+ },
+ {
+  "date": "2026-10-18",
+  "store": "Google Play",
+  "country": "UAE",
+  "code": "ae",
+  "region": "Gulf",
+  "rank": null
+ },
+ {
+  "date": "2026-10-18",
+  "store": "Google Play",
+  "country": "Saudi Arabia",
+  "code": "sa",
+  "region": "Gulf",
+  "rank": null
+ },
+ {
+  "date": "2026-10-18",
+  "store": "Google Play",
+  "country": "Qatar",
+  "code": "qa",
+  "region": "Gulf",
+  "rank": null
+ },
+ {
+  "date": "2026-10-18",
+  "store": "Google Play",
+  "country": "Kuwait",
+  "code": "kw",
+  "region": "Gulf",
+  "rank": null
+ },
+ {
+  "date": "2026-10-18",
+  "store": "Google Play",
+  "country": "Oman",
+  "code": "om",
+  "region": "Gulf",
+  "rank": null
+ },
+ {
+  "date": "2026-10-18",
+  "store": "Google Play",
+  "country": "Bahrain",
+  "code": "bh",
+  "region": "Gulf",
+  "rank": null
+ },
+ {
+  "date": "2026-10-18",
+  "store": "Google Play",
+  "country": "United States",
+  "code": "us",
+  "region": "Diaspora",
+  "rank": null
+ },
+ {
+  "date": "2026-10-18",
+  "store": "Google Play",
+  "country": "United Kingdom",
+  "code": "gb",
+  "region": "Diaspora",
+  "rank": null
+ },
+ {
+  "date": "2026-10-18",
+  "store": "Google Play",
+  "country": "Canada",
+  "code": "ca",
+  "region": "Diaspora",
+  "rank": null
+ },
+ {
+  "date": "2026-10-18",
+  "store": "Google Play",
+  "country": "Australia",
+  "code": "au",
+  "region": "Diaspora",
+  "rank": null
+ },
+ {
+  "date": "2026-10-18",
+  "store": "Google Play",
+  "country": "New Zealand",
+  "code": "nz",
+  "region": "Diaspora",
+  "rank": null
+ },
+ {
+  "date": "2026-10-18",
+  "store": "Google Play",
+  "country": "Ireland",
+  "code": "ie",
+  "region": "Diaspora",
+  "rank": null
+ },
+ {
+  "date": "2026-10-18",
+  "store": "Google Play",
+  "country": "Singapore",
+  "code": "sg",
+  "region": "Diaspora",
+  "rank": null
+ },
+ {
+  "date": "2026-10-18",
+  "store": "Google Play",
+  "country": "Malaysia",
+  "code": "my",
+  "region": "Diaspora",
+  "rank": null
+ },
+ {
+  "date": "2026-10-18",
+  "store": "Google Play",
+  "country": "Germany",
+  "code": "de",
+  "region": "Diaspora",
+  "rank": null
  }
 ]
