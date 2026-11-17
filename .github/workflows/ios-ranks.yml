@@ -1,0 +1,36 @@
+name: iPhone ranks
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"   # every 3 hours
+  workflow_dispatch:          # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ios-ranks
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Read charts
+        run: python ios_ranks.py
+      - name: Commit results
+        run: |
+          git config user.name "rank-tracker"
+          git config user.email "rank-tracker@users.noreply.github.com"
+          git add ios_ranks.json ios_ranks_readings.json
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "iPhone ranks $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            sleep 5
+          done
+          exit 1
