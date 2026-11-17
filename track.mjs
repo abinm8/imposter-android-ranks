@@ -32,6 +32,7 @@ for (const [country, code, region] of COUNTRIES) {
       lang: 'en',
       num: 200,
     });
+    if (!list.length) throw new Error('empty chart');
     const i = list.findIndex((a) => a.appId === APP_ID);
     rank = i === -1 ? null : i + 1;
   } catch (e) {
