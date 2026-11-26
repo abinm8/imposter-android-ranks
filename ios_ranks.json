@@ -2489,11 +2489,11 @@
   "country": "UAE",
   "code": "ae",
   "region": "Gulf",
-  "rank": 32,
+  "rank": 37,
   "best_rank": 32,
-  "readings": 2,
+  "readings": 3,
   "ratings": 13,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2503,9 +2503,9 @@
   "region": "Other",
   "rank": null,
   "best_rank": null,
-  "readings": 2,
+  "readings": 3,
   "ratings": 0,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2515,9 +2515,9 @@
   "region": "Other",
   "rank": null,
   "best_rank": null,
-  "readings": 2,
+  "readings": 3,
   "ratings": 0,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2527,9 +2527,9 @@
   "region": "Other",
   "rank": null,
   "best_rank": null,
-  "readings": 2,
+  "readings": 3,
   "ratings": 0,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2539,9 +2539,9 @@
   "region": "Diaspora",
   "rank": null,
   "best_rank": null,
-  "readings": 2,
+  "readings": 3,
   "ratings": 20,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2551,9 +2551,9 @@
   "region": "Gulf",
   "rank": null,
   "best_rank": 89,
-  "readings": 2,
+  "readings": 3,
   "ratings": 0,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2563,9 +2563,9 @@
   "region": "Other",
   "rank": null,
   "best_rank": null,
-  "readings": 2,
+  "readings": 3,
   "ratings": 0,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2575,9 +2575,9 @@
   "region": "Diaspora",
   "rank": null,
   "best_rank": null,
-  "readings": 2,
+  "readings": 3,
   "ratings": 12,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2587,9 +2587,9 @@
   "region": "Diaspora",
   "rank": null,
   "best_rank": null,
-  "readings": 2,
+  "readings": 3,
   "ratings": 14,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2599,9 +2599,9 @@
   "region": "Diaspora",
   "rank": null,
   "best_rank": null,
-  "readings": 2,
+  "readings": 3,
   "ratings": 19,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2609,11 +2609,11 @@
   "country": "Ireland",
   "code": "ie",
   "region": "Diaspora",
-  "rank": null,
-  "best_rank": null,
-  "readings": 2,
+  "rank": 98,
+  "best_rank": 98,
+  "readings": 3,
   "ratings": 1,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2623,9 +2623,9 @@
   "region": "Home",
   "rank": 23,
   "best_rank": 23,
-  "readings": 2,
+  "readings": 3,
   "ratings": 306,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2635,9 +2635,9 @@
   "region": "Gulf",
   "rank": null,
   "best_rank": null,
-  "readings": 2,
+  "readings": 3,
   "ratings": 0,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2647,9 +2647,9 @@
   "region": "Other",
   "rank": null,
   "best_rank": null,
-  "readings": 2,
+  "readings": 3,
   "ratings": 0,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2659,9 +2659,9 @@
   "region": "Other",
   "rank": null,
   "best_rank": null,
-  "readings": 2,
+  "readings": 3,
   "ratings": 0,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2671,9 +2671,9 @@
   "region": "Other",
   "rank": null,
   "best_rank": null,
-  "readings": 2,
+  "readings": 3,
   "ratings": 0,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2683,9 +2683,9 @@
   "region": "Diaspora",
   "rank": null,
   "best_rank": null,
-  "readings": 2,
+  "readings": 3,
   "ratings": 0,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2695,9 +2695,9 @@
   "region": "Diaspora",
   "rank": null,
   "best_rank": null,
-  "readings": 2,
+  "readings": 3,
   "ratings": 1,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2707,9 +2707,9 @@
   "region": "Gulf",
   "rank": null,
   "best_rank": null,
-  "readings": 2,
+  "readings": 3,
   "ratings": 1,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2717,11 +2717,11 @@
   "country": "Qatar",
   "code": "qa",
   "region": "Gulf",
-  "rank": 75,
+  "rank": 84,
   "best_rank": 75,
-  "readings": 2,
+  "readings": 3,
   "ratings": 10,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2731,9 +2731,9 @@
   "region": "Gulf",
   "rank": null,
   "best_rank": null,
-  "readings": 2,
+  "readings": 3,
   "ratings": 4,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2743,9 +2743,9 @@
   "region": "Diaspora",
   "rank": null,
   "best_rank": null,
-  "readings": 2,
+  "readings": 3,
   "ratings": 2,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  },
  {
   "date": "2026-11-25",
@@ -2755,8 +2755,8 @@
   "region": "Diaspora",
   "rank": null,
   "best_rank": null,
-  "readings": 2,
+  "readings": 3,
   "ratings": 24,
-  "updated": "2026-11-25T22:36:48Z"
+  "updated": "2026-11-26T05:09:05Z"
  }
 ]
